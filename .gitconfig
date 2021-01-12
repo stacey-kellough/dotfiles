@@ -1,0 +1,22 @@
+[user]
+  name = Stacey Kellough
+  email = stacey.kellough@gmail.com
+  username = sckellough
+
+[github]
+  user = stacey-kellough
+
+[alias]
+  a = add
+  aa = add --all
+  b = branch
+  c = commit
+  i = init
+  l = log --oneline
+  ac = !git add --all && git commit -m
+  cm = commit -m
+  pl = pull
+  ps = push
+  pso = push -u origin --all
+  rao = remote add origin
+  s = status
